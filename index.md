@@ -213,7 +213,7 @@ for more information.
 
 <hr/>
 
-<h2 id="materials" name="materials">Training Materials and Schedule</h2><
+<h2 id="materials" name="materials">Training Materials and Schedule</h2>
 <!--
 <p>
   Please see <a href="{{ site.training_site }}">this site</a> for course material and tentative schedule.
@@ -224,7 +224,7 @@ for more information.
 -->
 
 <p> 
-  Please see below fo a tentative schedule
+  Please see below fo a tentative schedule:
 </p>
 
 <div class="row">
