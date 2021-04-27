@@ -234,7 +234,7 @@ for more information.
       <tr> <td>1.</td> <td>Welcome </td> </tr>
       <tr> <td>2.</td> <td>Building Skill with Practice </td> </tr>
       <tr> <td>3.</td> <td>Building Skill with Feedback </td> </tr>
-      <tr> <td></td> <td>Finish</td>
+      <tr> <td></td> <td>Finish</td> </tr>
     </table>
   </div>
   <div class="col-md-6">
