@@ -213,59 +213,97 @@ for more information.
 
 <hr/>
 
-<h2 id="materials" name="materials">Training Materials and Schedule</h2>
-
+<h2 id="materials" name="materials">Training Materials and Schedule</h2><
+<!--
 <p>
   Please see <a href="{{ site.training_site }}">this site</a> for course material and tentative schedule.
 </p>
 
 
 <hr/>
+-->
 
-<!--
+<p> 
+  Please see below fo a tentative schedule
+</p>
 
 <div class="row">
   <div class="col-md-6">
     <h3>Day 1</h3>
     <table class="table table-striped">
-      <tr> <td>09:00</td> <td>Welcome </td> </tr>
-      <tr> <td>09:25</td> <td>Building Skill with Practice </td> </tr>
-      <tr> <td>10:25</td> <td>Expertise and Instruction </td> </tr>
-      <tr> <td>11:10</td> <td>Morning Break </td> </tr>
-      <tr> <td>11:25</td> <td>Memory and Cognitive Load </td> </tr>
-      <tr> <td>12:10</td> <td>Building Skill with Feedback </td> </tr>
-      <tr> <td>12:30</td> <td>Lunch </td> </tr>
-      <tr> <td>13:30</td> <td>Motivation and Demotivation </td> </tr>
-      <tr> <td>14:45</td> <td>Mindset </td> </tr>
-      <tr> <td>15:15</td> <td>Afternoon Break </td> </tr>
-      <tr> <td>15:30</td> <td>Teaching Is a Skill </td> </tr>
-      <tr> <td>16:40</td> <td>Wrap-up and Homework for Tomorrow </td> </tr>
-      <tr> <td>17:00</td> <td>Finish </td> </tr>
+      <tr> <td>1.</td> <td>Welcome </td> </tr>
+      <tr> <td>2.</td> <td>Building Skill with Practice </td> </tr>
+      <tr> <td>3.</td> <td>Building Skill with Feedback </td> </tr>
+      <tr> <td></td> <td>Finish</td>
     </table>
   </div>
   <div class="col-md-6">
     <h3>Day 2</h3>
     <table class="table table-striped">
-      <tr> <td>09:00</td> <td>Welcome Back </td> </tr>
-      <tr> <td>09:10</td> <td>Live Coding Is a Skill </td> </tr>
-      <tr> <td>10:20</td> <td>Preparing to Teach </td> </tr>
-      <tr> <td>11:10</td> <td>Morning Break </td> </tr>
-      <tr> <td>11:25</td> <td>More Practice Live Coding </td> </tr>
-      <tr> <td>12:10</td> <td>Managing a Diverse Classroom </td> </tr>
-      <tr> <td>12:40</td> <td>Lunch </td> </tr>
-      <tr> <td>13:40</td> <td>Checkout Process </td> </tr>
-      <tr> <td>13:55</td> <td>The Carpentries: How We Operate </td> </tr>
-      <tr> <td>15:10</td> <td>Afternoon Coffee </td> </tr>
-      <tr> <td>15:25</td> <td>Workshop Introductions </td> </tr>
-      <tr> <td>16:05</td> <td>Putting it Together </td> </tr>
-      <tr> <td>16:25</td> <td>Wraping Up </td> </tr>
-      <tr> <td>16:40</td> <td>Post-Training Survey </td> </tr>
-      <tr> <td>16:55</td> <td>Finish </td> </tr>
+      <tr> <td>4.</td> <td>Welcome</td> </tr>
+      <tr> <td>5.</td> <td>Expertise and Instruction </td> </tr>
+      <tr> <td>6.</td> <td>Mindset </td> </tr>
+      <tr> <td></td> <td>Finish </td> </tr>
+    </table>
+  </div>
+  <div class="col-md-6">
+    <h3>Day 3</h3>
+    <table class="table table-striped">
+      <tr> <td>7.</td> <td>Welcome </td> </tr>
+       <tr> <td>8.</td> <td>Teaching Is a Skill </td> </tr>
+      <tr> <td>9.</td> <td>Managing a Diverse Classroom </td> </tr>
+      <tr> <td></td> <td>Finish </td> </tr>
+    </table>
+  </div>
+  <div class="col-md-6">
+    <h3>Day 4</h3>
+    <table class="table table-striped">
+      <tr> <td>10.</td> <td>Welcome </td> </tr>
+      <tr> <td>11.</td> <td>Memory and Cognitive Load </td> </tr>
+      <tr> <td>12.</td> <td>Preparing to Teach </td> </tr>
+      <tr> <td>13.</td> <td>Motivation and Demotivation </td> </tr>
+      <tr> <td></td> <td>Finish </td> </tr>
+    </table>
+  </div>
+  <div class="col-md-6">
+    <h3>Day 5</h3>
+    <table class="table table-striped">
+      <tr> <td>14.</td> <td>Welcome </td> </tr>
+       <tr> <td>15.</td> <td>Live Coding Is a Skill </td> </tr>
+      <tr> <td></td> <td>Finish </td> </tr>
+    </table>
+  </div>
+  <div class="col-md-6">
+    <h3>Day 6</h3>
+    <table class="table table-striped">
+      <tr> <td>16.</td> <td>Welcome </td> </tr>
+      <tr> <td>17.</td> <td>Checkout Process </td> </tr>
+      <tr> <td></td> <td>Finish </td> </tr>
+    </table>
+  </div>
+  <div class="col-md-6">
+    <h3>Day 7</h3>
+    <table class="table table-striped">
+      <tr> <td>18.</td> <td>Welcome </td> </tr>
+       <tr> <td>19.</td> <td>More Practice Live Coding </td> </tr>
+      <tr> <td>20.</td> <td>The Carpentries: How We Operate </td> </tr>
+      <tr> <td></td> <td>Finish </td> </tr>
+    </table>
+  </div>
+  <div class="col-md-6">
+    <h3>Day 8</h3>
+    <table class="table table-striped">
+      <tr> <td>21.</td> <td>Welcome </td> </tr>
+      <tr> <td>22.</td> <td>Putting it Together </td> </tr>
+      <tr> <td>23.</td> <td>Workshop Introductions </td> </tr>
+      <tr> <td>24.</td> <td>Wrapping Up</td> </tr>
+       <tr> <td></td> <td>Post-Training Survey </td> </tr>
+      <tr> <td></td> <td>Finish </td> </tr>
     </table>
   </div>
 </div>
 
--->
+
 
 <!--
   ETHERPAD
