@@ -224,7 +224,7 @@ for more information.
 -->
 
 <p> 
-  Please see below fo a tentative schedule:
+  Please see below for a tentative schedule:
 </p>
 
 <div class="row">
