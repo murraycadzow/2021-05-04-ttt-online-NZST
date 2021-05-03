@@ -243,7 +243,7 @@ How can we help novices become competent practitioners?</td> </tr>
       <tr> <td> </td> <td>6. <a href="https://carpentries.github.io/instructor-training/09-mindset/index.html">Mindset </a> </td> <td>How does mindset influence learning?<br>How should we praise our learners?<br>How should we talk about errors?<br>What are successful habits of lifelong learners?</td></tr>
       <tr> <td> </td> <td>Finish </td> <td> </td> </tr>
       <tr> <td>Day 3</td> <td>7. Welcome </td> <td> </td> </tr>
-       <tr><td> </td> <td> </td> <td>8. <a href="https://carpentries.github.io/instructor-training/11-practice-teaching/index.html">Teaching Is a Skill </a> </td> </tr>
+       <tr><td> </td> <td>8. <a href="https://carpentries.github.io/instructor-training/11-practice-teaching/index.html">Teaching Is a Skill </a> </td> <td>How can I improve my teaching?</td> </tr>
       <tr><td> </td> <td>9. <a href="https://carpentries.github.io/instructor-training/18-management/index.html">Managing a Diverse Classroom </a> </td> </tr>
       <tr> <td> </td> <td>Finish </td> <td> </td> </tr>
       <tr> <td>Day 4</td> <td>10. Welcome </td> <td>Who are we and how do we approach teaching?<br>What should you expect from this workshop?</td></tr>
