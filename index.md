@@ -228,7 +228,7 @@ for more information.
 </p>
 
 <div class="row">
-  <div class="col-md-6">
+  <div class="col-md-8">
     <h3>Sample Schedule</h3>
     <table class="table table-striped">
       <tr> <td> </td> <td> <a href="https://carpentries.github.io/instructor-training/setup.html">Setup</a> </td> <td>Download files required for the lesson</td> </tr>
@@ -244,7 +244,7 @@ How can we help novices become competent practitioners?</td> </tr>
       <tr> <td> </td> <td>Finish </td> <td> </td> </tr>
       <tr> <td>Day 3</td> <td>7. Welcome </td> <td> </td> </tr>
        <tr><td> </td> <td>8. <a href="https://carpentries.github.io/instructor-training/11-practice-teaching/index.html">Teaching Is a Skill </a> </td> <td>How can I improve my teaching?</td> </tr>
-      <tr><td> </td> <td>9. <a href="https://carpentries.github.io/instructor-training/18-management/index.html">Managing a Diverse Classroom </a> </td> </tr>
+      <tr><td> </td> <td>9. <a href="https://carpentries.github.io/instructor-training/18-management/index.html">Managing a Diverse Classroom </a> </td> <td>How can I prepare for effective co-teaching?<br>What are the challenges of managing a heterogeneous classroom?<br>What do I do if there is a Code of Conduct violation?</td></tr>
       <tr> <td> </td> <td>Finish </td> <td> </td> </tr>
       <tr> <td>Day 4</td> <td>10. Welcome </td> <td>Who are we and how do we approach teaching?<br>What should you expect from this workshop?</td></tr>
       <tr><td> </td> <td>11. <a href="https://carpentries.github.io/instructor-training/05-memory/index.html">Memory and Cognitive Load </a> <td>What is cognitive load and how does it affect learning?<br>How can we design instruction to work with, rather than against, memory constraints?</td> </td> </tr>
