@@ -242,31 +242,31 @@ How can we help novices become competent practitioners?</td> </tr>
       <tr> <td> </td> <td>5. <a href="https://carpentries.github.io/instructor-training/03-expertise/index.html">Expertise and Instruction </a> </td> <td>What type of instructor is best for novices?<br>How are we (as instructors) different from our learners and how does this impact our teaching?</td> </tr>
       <tr> <td> </td> <td>6. <a href="https://carpentries.github.io/instructor-training/09-mindset/index.html">Mindset </a> </td> <td>How does mindset influence learning?<br>How should we praise our learners?<br>How should we talk about errors?<br>What are successful habits of lifelong learners?</td></tr>
       <tr> <td> </td> <td>Finish </td> <td> </td> </tr>
-      <tr> <td>Day 3</td> <td>7. Welcome </td> </tr>
+      <tr> <td>Day 3</td> <td>7. Welcome </td> <td> </td> </tr>
        <tr><td> </td> <td> </td> <td>8. <a href="https://carpentries.github.io/instructor-training/11-practice-teaching/index.html">Teaching Is a Skill </a> </td> </tr>
-      <tr><td> </td> <td>9.</td> <td><a href="https://carpentries.github.io/instructor-training/18-management/index.html">Managing a Diverse Classroom </a> </td> </tr>
+      <tr><td> </td> <td>9. <a href="https://carpentries.github.io/instructor-training/18-management/index.html">Managing a Diverse Classroom </a> </td> </tr>
       <tr> <td> </td> <td>Finish </td> <td> </td> </tr>
       <tr> <td>Day 4</td> <td>10. Welcome </td> <td>Who are we and how do we approach teaching?<br>What should you expect from this workshop?</td></tr>
       <tr><td> </td> <td>11. <a href="https://carpentries.github.io/instructor-training/05-memory/index.html">Memory and Cognitive Load </a> <td>What is cognitive load and how does it affect learning?<br>How can we design instruction to work with, rather than against, memory constraints?</td> </td> </tr>
       <tr> <td> </td> <td>12. <a href="https://carpentries.github.io/instructor-training/15-lesson-study/index.html">Preparing to Teach </a> </td> <td>How should I prepare to teach?</td> </tr>
       <tr><td> </td> <td>13. <a href="https://carpentries.github.io/instructor-training/08-motivation/index.html">Motivation and Demotivation </a> </td> <td>Why is motivation important?<br>How can we create a motivating environment for learners?</td> </tr>
-      <tr><td> </td>  <td>Finish </td> </tr>
-      <tr> <td>Day 5</td><td>14. Welcome </td> </tr>
-       <tr><td> </td> <td>15.</td> <td><a href="https://carpentries.github.io/instructor-training/14-live/index.html">Live Coding Is a Skill </a> </td> </tr>
-      <tr><td> </td> <td></td> <td>Finish </td> </tr>
-      <tr> <td>Day 6</td> <td>16. Welcome </td> </tr>
-      <tr> <td> </td> <td>17. <a href="https://carpentries.github.io/instructor-training/20-checkout/index.html">Checkout Process </a> </td> </tr>
-      <tr> <td> </td><td></td> <td>Finish </td> </tr>
-      <tr> <td>Day 7</td><td>18.</td> <td>Welcome </td> </tr>
+      <tr> <td> </td>  <td>Finish </td> <td> </td> </tr>
+      <tr> <td>Day 5</td><td>14. Welcome </td> <td>Who are we and how do we approach teaching?<br>What should you expect from this workshop? </td> </tr>
+       <tr><td> </td> <td>15. <a href="https://carpentries.github.io/instructor-training/14-live/index.html">Live Coding Is a Skill </a> </td> <td>Why do we teach programming using participatory live coding?</td> </tr>
+      <tr> <td></td> <td>Finish </td> <td> </td> </tr>
+      <tr> <td>Day 6</td> <td>16. Welcome </td> <td>Who are we and how do we approach teaching?<br>What should you expect from this workshop?</td> </tr>
+      <tr> <td> </td> <td>17. <a href="https://carpentries.github.io/instructor-training/20-checkout/index.html">Checkout Process </a> </td> <td>What do I need to do to finish certifying as a Carpentries Instructor?</td></tr>
+      <tr> <td> </td><td></td> <td>Finish </td> <td> </td></tr>
+      <tr> <td>Day 7</td> <td>18. Welcome </td> <td> Who are we and how do we approach teaching?<br>What should you expect from this workshop?</td> </tr>
        <tr> <td> </td><td>19.</td> <td><a href="https://carpentries.github.io/instructor-training/17-performance/index.html">More Practice Live Coding </a> </td> </tr>
-      <tr> <td> </td><td>20.</td> <td><a href="https://carpentries.github.io/instructor-training/21-carpentries/index.html">The Carpentries: How We Operate </a> </td> </tr>
-      <tr> <td> </td><td></td> <td>Finish </td> </tr>
-      <tr> <td>Day 8</td><td>21.</td> <td>Welcome </td> </tr>
-      <tr> <td> </td><td>22.</td> <td><a href="https://carpentries.github.io/instructor-training/24-practices/index.html">Putting it Together </a> </td> </tr>
-      <tr> <td> </td><td>23.</td> <td><a href="https://carpentries.github.io/instructor-training/23-introductions/index.html">Workshop Introductions </a> </td> </tr>
-      <tr> <td> </td><td>24.</td> <td><a href="https://carpentries.github.io/instructor-training/25-wrap-up/index.html">Wrapping Up </a> </td> </tr>
-       <tr> <td> </td><td></td> <td><a href="https://www.surveymonkey.com/r/instructor_training_post_survey?workshop_id=2021-05-04-ttt-online-NZST">Post-Training Survey </a> </td> </tr>
-      <tr> <td> </td><td></td> <td>Finish </td> </tr>
+      <tr> <td> </td> <td>20. <a href="https://carpentries.github.io/instructor-training/21-carpentries/index.html">The Carpentries: How We Operate </a> </td> <td>How is The Carpentries organized and run?<br>What is the difference between SWC, DC, and LC workshops? <br>How do you run a Carpentries workshop?</td> </tr>
+      <tr> <td> </td><td></td> <td>Finish </td> <td> </td> </tr>
+      <tr> <td>Day 8</td><td>21. Welcome </td> <td>Who are we and how do we approach teaching?<br>What should you expect from this workshop?</td></tr>
+      <tr> <td> </td> <td>22. <a href="https://carpentries.github.io/instructor-training/24-practices/index.html">Putting it Together </a> </td> <td>How are the teaching practices we have learned used in our workshops?</td> </tr>
+      <tr> <td> </td> <td>23. <a href="https://carpentries.github.io/instructor-training/23-introductions/index.html">Workshop Introductions </a> </td> <td>How do you actually start a workshop?</td></tr>
+      <tr> <td> </td> <td>24. <a href="https://carpentries.github.io/instructor-training/25-wrap-up/index.html">Wrapping Up </a> </td> <td>What can we improve in this training?</td> </tr>
+       <tr> <td> </td> <td><a href="https://www.surveymonkey.com/r/instructor_training_post_survey?workshop_id=2021-05-04-ttt-online-NZST">Post-Training Survey </a> </td> <td>Please fill out our post-training survey after the course.</td> </tr>
+      <tr> <td> </td><td></td> <td>Finish </td> <td> </td> </tr>
     </table>
   </div>
 </div>
