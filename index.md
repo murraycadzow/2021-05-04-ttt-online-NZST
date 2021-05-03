@@ -228,7 +228,7 @@ for more information.
 </p>
 
 <div class="row">
-  <div class="col-md-8">
+  <div class="col-md-12">
     <h3>Sample Schedule</h3>
     <table class="table table-striped">
       <tr> <td> </td> <td> <a href="https://carpentries.github.io/instructor-training/setup.html">Setup</a> </td> <td>Download files required for the lesson</td> </tr>
