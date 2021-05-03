@@ -231,11 +231,15 @@ for more information.
   <div class="col-md-6">
     <h3>Sample Schedule</h3>
     <table class="table table-striped">
-      <tr> <td> </td> <td> </td> <td> <a href="https://carpentries.github.io/instructor-training/setup.html">Setup</a> </td> </tr>
-      <tr> <td> </td><td> </td> <td> <a href="https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.surveymonkey.com%2Fr%2Finstructor_training_pre_survey%3Fworkshop_id%3D2021-05-04-ttt-online-NZST&data=04%7C01%7Cmurray.cadzow%40otago.ac.nz%7C59d910f7854e45bb972c08d90b2d0396%7C0225efc578fe4928b1579ef24809e9ba%7C1%7C1%7C637553110272132245%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=uSl9Gx436ACE%2B5zLLekMWh%2BsAG%2BTYvWEP%2BhRzuJcUM0%3D&reserved=0">Pre-training survey</a> </td></tr>
-      <tr> <td>Day 1</td><td>1.</td> <td><a href="https://carpentries.github.io/instructor-training/01-welcome/index.html">Welcome</a> </td> </tr>
-      <tr> <td> </td><td>2.</td> <td><a href="https://carpentries.github.io/instructor-training/02-practice-learning/index.html">Building Skill with Practice </a> </td> </tr>
-      <tr> <td> </td><td>3.</td> <td><a href="https://carpentries.github.io/instructor-training/06-feedback/index.html">Building Skill with Feedback </a> </td> </tr>
+      <tr> <td> </td> <td> </td> <td> <a href="https://carpentries.github.io/instructor-training/setup.html">Setup</a> </td> <td>Download files required for the lesson</td> </tr>
+      <tr> <td> </td><td> </td> <td> <a href="https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.surveymonkey.com%2Fr%2Finstructor_training_pre_survey%3Fworkshop_id%3D2021-05-04-ttt-online-NZST&data=04%7C01%7Cmurray.cadzow%40otago.ac.nz%7C59d910f7854e45bb972c08d90b2d0396%7C0225efc578fe4928b1579ef24809e9ba%7C1%7C1%7C637553110272132245%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=uSl9Gx436ACE%2B5zLLekMWh%2BsAG%2BTYvWEP%2BhRzuJcUM0%3D&reserved=0">Pre-training survey</a> </td> <td>Please fill out our pre-training survey before the start of the course.</td></tr>
+      <tr> <td>Day 1</td><td>1.</td> <td><a href="https://carpentries.github.io/instructor-training/01-welcome/index.html">Welcome</a> </td> <td>Who are we and how do we approach teaching?
+What should you expect from this workshop?</td> </tr>
+      <tr> <td> </td><td>2.</td> <td><a href="https://carpentries.github.io/instructor-training/02-practice-learning/index.html">Building Skill with Practice </a> </td> <td>How do people learn?
+Who is a typical Carpentries learner?
+How can we help novices become competent practitioners?</td> </tr>
+      <tr> <td> </td><td>3.</td> <td><a href="https://carpentries.github.io/instructor-training/06-feedback/index.html">Building Skill with Feedback </a> </td> <td>How can I get feedback from learners?
+How can I use this feedback to improve my teaching?</td> </tr>
       <tr> <td> </td> <td></td> <td>Finish</td> </tr>
       <tr> <td>Day 2</td><td>4.</td> <td>Welcome</td> </tr>
       <tr> <td> </td><td>5.</td> <td><a href="https://carpentries.github.io/instructor-training/03-expertise/index.html">Expertise and Instruction </a> </td> </tr>
