@@ -231,9 +231,10 @@ for more information.
   <div class="col-md-6">
     <h3>Day 1</h3>
     <table class="table table-striped">
-      <tr> <td>1.</td> <td>Welcome </td> </tr>
-      <tr> <td>2.</td> <td>Building Skill with Practice </td> </tr>
-      <tr> <td>3.</td> <td>Building Skill with Feedback </td> </tr>
+      <tr> <td></td><a href="https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.surveymonkey.com%2Fr%2Finstructor_training_pre_survey%3Fworkshop_id%3D2021-05-04-ttt-online-NZST&data=04%7C01%7Cmurray.cadzow%40otago.ac.nz%7C59d910f7854e45bb972c08d90b2d0396%7C0225efc578fe4928b1579ef24809e9ba%7C1%7C1%7C637553110272132245%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=uSl9Gx436ACE%2B5zLLekMWh%2BsAG%2BTYvWEP%2BhRzuJcUM0%3D&reserved=0">Pre-training survey</a> </td></tr>
+      <tr> <td>1.</td> <td><a href="https://carpentries.github.io/instructor-training/01-welcome/index.html">Welcome</a> </td> </tr>
+      <tr> <td>2.</td> <td><a href="https://carpentries.github.io/instructor-training/02-practice-learning/index.html">Building Skill with Practice </a> </td> </tr>
+      <tr> <td>3.</td> <td><a href="https://carpentries.github.io/instructor-training/06-feedback/index.html">Building Skill with Feedback </a> </td> </tr>
       <tr> <td></td> <td>Finish</td> </tr>
     </table>
   </div>
@@ -241,8 +242,8 @@ for more information.
     <h3>Day 2</h3>
     <table class="table table-striped">
       <tr> <td>4.</td> <td>Welcome</td> </tr>
-      <tr> <td>5.</td> <td>Expertise and Instruction </td> </tr>
-      <tr> <td>6.</td> <td>Mindset </td> </tr>
+      <tr> <td>5.</td> <td><a href="https://carpentries.github.io/instructor-training/03-expertise/index.html">Expertise and Instruction </a> </td> </tr>
+      <tr> <td>6.</td> <td><a href="https://carpentries.github.io/instructor-training/09-mindset/index.html">Mindset </a> </td> </tr>
       <tr> <td></td> <td>Finish </td> </tr>
     </table>
   </div>
@@ -250,8 +251,8 @@ for more information.
     <h3>Day 3</h3>
     <table class="table table-striped">
       <tr> <td>7.</td> <td>Welcome </td> </tr>
-       <tr> <td>8.</td> <td>Teaching Is a Skill </td> </tr>
-      <tr> <td>9.</td> <td>Managing a Diverse Classroom </td> </tr>
+       <tr> <td>8.</td> <td><a href="https://carpentries.github.io/instructor-training/11-practice-teaching/index.html">Teaching Is a Skill </a> </td> </tr>
+      <tr> <td>9.</td> <td><a href="https://carpentries.github.io/instructor-training/18-management/index.html">Managing a Diverse Classroom </a> </td> </tr>
       <tr> <td></td> <td>Finish </td> </tr>
     </table>
   </div>
@@ -259,9 +260,9 @@ for more information.
     <h3>Day 4</h3>
     <table class="table table-striped">
       <tr> <td>10.</td> <td>Welcome </td> </tr>
-      <tr> <td>11.</td> <td>Memory and Cognitive Load </td> </tr>
-      <tr> <td>12.</td> <td>Preparing to Teach </td> </tr>
-      <tr> <td>13.</td> <td>Motivation and Demotivation </td> </tr>
+      <tr> <td>11.</td> <td><a href="https://carpentries.github.io/instructor-training/05-memory/index.html">Memory and Cognitive Load </a> </td> </tr>
+      <tr> <td>12.</td> <td><a href="https://carpentries.github.io/instructor-training/15-lesson-study/index.html">Preparing to Teach </a> </td> </tr>
+      <tr> <td>13.</td> <td><a href="https://carpentries.github.io/instructor-training/08-motivation/index.html">Motivation and Demotivation </a> </td> </tr>
       <tr> <td></td> <td>Finish </td> </tr>
     </table>
   </div>
@@ -269,7 +270,7 @@ for more information.
     <h3>Day 5</h3>
     <table class="table table-striped">
       <tr> <td>14.</td> <td>Welcome </td> </tr>
-       <tr> <td>15.</td> <td>Live Coding Is a Skill </td> </tr>
+       <tr> <td>15.</td> <td><a href="https://carpentries.github.io/instructor-training/14-live/index.html">Live Coding Is a Skill </a> </td> </tr>
       <tr> <td></td> <td>Finish </td> </tr>
     </table>
   </div>
@@ -277,7 +278,7 @@ for more information.
     <h3>Day 6</h3>
     <table class="table table-striped">
       <tr> <td>16.</td> <td>Welcome </td> </tr>
-      <tr> <td>17.</td> <td>Checkout Process </td> </tr>
+      <tr> <td>17.</td> <td><a href="https://carpentries.github.io/instructor-training/20-checkout/index.html">Checkout Process </a> </td> </tr>
       <tr> <td></td> <td>Finish </td> </tr>
     </table>
   </div>
@@ -285,8 +286,8 @@ for more information.
     <h3>Day 7</h3>
     <table class="table table-striped">
       <tr> <td>18.</td> <td>Welcome </td> </tr>
-       <tr> <td>19.</td> <td>More Practice Live Coding </td> </tr>
-      <tr> <td>20.</td> <td>The Carpentries: How We Operate </td> </tr>
+       <tr> <td>19.</td> <td><a href="https://carpentries.github.io/instructor-training/17-performance/index.html">More Practice Live Coding </a> </td> </tr>
+      <tr> <td>20.</td> <td><a href="https://carpentries.github.io/instructor-training/21-carpentries/index.html">The Carpentries: How We Operate </a> </td> </tr>
       <tr> <td></td> <td>Finish </td> </tr>
     </table>
   </div>
@@ -294,10 +295,10 @@ for more information.
     <h3>Day 8</h3>
     <table class="table table-striped">
       <tr> <td>21.</td> <td>Welcome </td> </tr>
-      <tr> <td>22.</td> <td>Putting it Together </td> </tr>
-      <tr> <td>23.</td> <td>Workshop Introductions </td> </tr>
-      <tr> <td>24.</td> <td>Wrapping Up</td> </tr>
-       <tr> <td></td> <td>Post-Training Survey </td> </tr>
+      <tr> <td>22.</td> <td><a href="https://carpentries.github.io/instructor-training/24-practices/index.html">Putting it Together </a> </td> </tr>
+      <tr> <td>23.</td> <td><a href="https://carpentries.github.io/instructor-training/23-introductions/index.html">Workshop Introductions </a> </td> </tr>
+      <tr> <td>24.</td> <td><a href="https://carpentries.github.io/instructor-training/25-wrap-up/index.html">Wrapping Up </a> </td> </tr>
+       <tr> <td></td> <td><a href="https://www.surveymonkey.com/r/instructor_training_post_survey?workshop_id=2021-05-04-ttt-online-NZST">Post-Training Survey </a> </td> </tr>
       <tr> <td></td> <td>Finish </td> </tr>
     </table>
   </div>
